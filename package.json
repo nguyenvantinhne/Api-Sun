@@ -1,0 +1,11 @@
+{
+  "name": "sun-app",
+  "version": "1.0.0",
+  "main": "sun.js",
+  "scripts": {
+    "start": "node sun_dudoanvip.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
